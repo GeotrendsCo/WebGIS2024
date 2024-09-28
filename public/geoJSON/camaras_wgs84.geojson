@@ -1,0 +1,1787 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.608013999162722,
+          6.2386330004649944
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "direccion" : "Cr 83C Cl 33",
+        "localizaci" : "El Castillo",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen77.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.608013999999997,
+        "latitud" : 6.2386330000000001,
+        "x_origen_n" : 4711518.0712000001,
+        "y_origen_n" : 1181859.5059
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.607370999087451,
+          6.2521480004391563
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "direccion" : "Cr 89 Cl 44",
+        "localizaci" : "Everest",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen78.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.607371000000001,
+        "latitud" : 6.252148,
+        "x_origen_n" : 4711596.6500000004,
+        "y_origen_n" : 1183354.4443000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.619508000009205,
+          6.2766149993896416
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "direccion" : "Cr 108BB Cl 62D",
+        "localizaci" : "Túnel de Occidente",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen79.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.619507999999996,
+        "latitud" : 6.2766149999999996,
+        "x_origen_n" : 4710266.7598000001,
+        "y_origen_n" : 1186060.9532000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.577732999837892,
+          6.2707379997051378
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "direccion" : "Cr 65 Cl 71",
+        "localizaci" : "La Florida",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen80.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.577732999999995,
+        "latitud" : 6.2707379999999997,
+        "x_origen_n" : 4714887.2166999998,
+        "y_origen_n" : 1185410.5811000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.640979000544078,
+          6.2760980006547138
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "direccion" : "Cr 134 Cl 59",
+        "localizaci" : "Vivero Túnel de Occidente",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen81.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.640979000000002,
+        "latitud" : 6.2760980000000002,
+        "x_origen_n" : 4707890.0033,
+        "y_origen_n" : 1186004.0600999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.562268754523316,
+          6.2954104824524189
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "direccion" : "Cr 63A Cl 103",
+        "localizaci" : "Quebrada Tinajas",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen17.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.562268750000001,
+        "latitud" : 6.2954104800000001,
+        "x_origen_n" : 4716612.1451000003,
+        "y_origen_n" : 1188139.6791999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.575267619109226,
+          6.2491321180857904
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "direccion" : "Cr 63A Cl 38",
+        "localizaci" : "Estaciom Cisneros",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.575267620000005,
+        "latitud" : 6.2491321199999996,
+        "x_origen_n" : 4715148.3629000001,
+        "y_origen_n" : 1183020.6684999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.57537977350394,
+          6.2395319647759289
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "direccion" : "Cr 62 Cl 40",
+        "localizaci" : "Glorieta Exposiciones",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen54.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.575379769999998,
+        "latitud" : 6.2395319699999998,
+        "x_origen_n" : 4715130.7542000003,
+        "y_origen_n" : 1181958.7601999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.570676093664332,
+          6.2580452202927574
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "direccion" : "Cr 57 Cl 58A",
+        "localizaci" : "Fatelares",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen46.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.570676090000006,
+        "latitud" : 6.2580452199999996,
+        "x_origen_n" : 4715661.3908000002,
+        "y_origen_n" : 1184006.5719999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.580498343301514,
+          6.2190315499892304
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "direccion" : "Cr 52 Cl14",
+        "localizaci" : "Centro Empresarial Olaya",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen26.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.580498340000005,
+        "latitud" : 6.2190315500000004,
+        "x_origen_n" : 4714553.1111000003,
+        "y_origen_n" : 1179691.1473999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.576308733463264,
+          6.1927452834248964
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "direccion" : "Cr 43A Cl 12 Sur",
+        "localizaci" : "Virgen Aguacatala",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen27.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.576308729999994,
+        "latitud" : 6.1927452799999996,
+        "x_origen_n" : 4715002.7181000002,
+        "y_origen_n" : 1176783.5142000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.57485599999761,
+          6.2575710005669931
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "direccion" : "Cr 62 Cl 55",
+        "localizaci" : "Minorista",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen64.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.574855999999997,
+        "latitud" : 6.2575710000000004,
+        "x_origen_n" : 4715198.4946999997,
+        "y_origen_n" : 1183954.1237000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.573492412569877,
+          6.2756686747324215
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "direccion" : "Cr 65 Tv 78",
+        "localizaci" : "Castipán",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen40.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.57349241,
+        "latitud" : 6.2756686799999999,
+        "x_origen_n" : 4715359.2401000001,
+        "y_origen_n" : 1185955.9717999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.569340354345712,
+          6.225420262996602
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "direccion" : "Cr 43A Cl 26",
+        "localizaci" : "Astor",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen28.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.569340350000004,
+        "latitud" : 6.2254202599999999,
+        "x_origen_n" : 4715791.6265000002,
+        "y_origen_n" : 1180397.8032
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.576673513263103,
+          6.2087950472132416
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "direccion" : "Cr 48 Cl 7",
+        "localizaci" : "Av Las Vegas - Icollantas",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen43.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.576673510000006,
+        "latitud" : 6.20879505,
+        "x_origen_n" : 4714970.9676999999,
+        "y_origen_n" : 1178558.8389000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.571035999911402,
+          6.283732999996916
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "direccion" : "Cr 64C Cl 88A",
+        "localizaci" : "Tanques Ecopetrol",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen60.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.571036000000007,
+        "latitud" : 6.2837329999999998,
+        "x_origen_n" : 4715635.4918,
+        "y_origen_n" : 1186847.9929
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.579971999641131,
+          6.2217620000024274
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "direccion" : "Cr 52 Cl 20",
+        "localizaci" : "Zoológico",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen75.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.579971999999998,
+        "latitud" : 6.221762,
+        "x_origen_n" : 4714612.8469000002,
+        "y_origen_n" : 1179993.1709
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.574431185782416,
+          6.2681981085830714
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "direccion" : "Cr 64C Cl 67",
+        "localizaci" : "Coca-Cola",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen4.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.574431189999999,
+        "latitud" : 6.2681981100000002,
+        "x_origen_n" : 4715251.2796,
+        "y_origen_n" : 1185129.6266000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.575313999880933,
+          6.2013769988974676
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "direccion" : "Cr 43C Cl 4S",
+        "localizaci" : "Carulla Oviedo",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen68.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.575314000000006,
+        "latitud" : 6.2013769999999999,
+        "x_origen_n" : 4715117.4664000003,
+        "y_origen_n" : 1177738.298
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.561658507144301,
+          6.3034170761888939
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "direccion" : "Cr 64C Cl 104",
+        "localizaci" : "Autopista Norte - Deprimido Feria de Ganado",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen41.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.561658510000001,
+        "latitud" : 6.30341708,
+        "x_origen_n" : 4716684.0302999998,
+        "y_origen_n" : 1189025.3186000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.564769869003513,
+          6.2089390365066883
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "direccion" : "Cl 10A 34",
+        "localizaci" : "Hotel 10",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen39.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.564769870000006,
+        "latitud" : 6.2089390399999997,
+        "x_origen_n" : 4716288.6813000003,
+        "y_origen_n" : 1178574.7516000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.583994999025279,
+          6.2842340006955535
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "direccion" : "Cr 80 Cl 80",
+        "localizaci" : "CAI López de Mesa",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen61.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.583995000000002,
+        "latitud" : 6.2842339999999997,
+        "x_origen_n" : 4714201.5071999999,
+        "y_origen_n" : 1186903.4447000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.559861426988078,
+          6.3094795100396599
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "direccion" : "Cr 64AA Cl 113A",
+        "localizaci" : "Autopista Norte - Solla",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen6.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.559861429999998,
+        "latitud" : 6.3094795100000001,
+        "x_origen_n" : 4716886.2081000004,
+        "y_origen_n" : 1189695.9084000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.564211970025525,
+          6.3009536906383534
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "direccion" : "Cr 64C Cl 104",
+        "localizaci" : "Autopista Norte - Zenu",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen5.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.564211970000002,
+        "latitud" : 6.3009536900000001,
+        "x_origen_n" : 4716400.0959999999,
+        "y_origen_n" : 1188752.8333999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.568423037790694,
+          6.292070484221199
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "direccion" : "Cr 64C Cl 97",
+        "localizaci" : "Autopista Norte - Parque Juanes",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen35.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.568423039999999,
+        "latitud" : 6.2920704799999996,
+        "x_origen_n" : 4715929.2147000004,
+        "y_origen_n" : 1187770.2302000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.566663509090745,
+          6.2869409743306859
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "direccion" : "Cr 63 Cl 94A",
+        "localizaci" : "Av.Regional paralela Tricentenario Qda. Minitas",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.566663509999998,
+        "latitud" : 6.2869409699999999,
+        "x_origen_n" : 4716121.1624999996,
+        "y_origen_n" : 1187202.8352000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.572204953081481,
+          6.2786494054595803
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "direccion" : "Cr 64C Cl 78",
+        "localizaci" : "Terminal del Norte",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen8.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.57220495,
+        "latitud" : 6.2786494099999999,
+        "x_origen_n" : 4715503.3529000003,
+        "y_origen_n" : 1186285.6793
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.570198660983237,
+          6.2760899233882999
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "direccion" : "Cr 63 Cl 77",
+        "localizaci" : "Puente del Mico",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen7.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.570198660000003,
+        "latitud" : 6.2760899200000004,
+        "x_origen_n" : 4715724.0141000003,
+        "y_origen_n" : 1186002.5629
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.584736232607739,
+          6.2610687108719567
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "direccion" : "Cl 54 Cr 70",
+        "localizaci" : "La Iguaná",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen34.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.584736230000004,
+        "latitud" : 6.26106871,
+        "x_origen_n" : 4714106.8313999996,
+        "y_origen_n" : 1184341.0492
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.57345486151128,
+          6.2599009086384854
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "direccion" : "Cr 62 Cl 58",
+        "localizaci" : "Horacio Toro",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen9.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.573454859999998,
+        "latitud" : 6.2599009099999998,
+        "x_origen_n" : 4715354.8381000003,
+        "y_origen_n" : 1184211.8407000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.578663712070323,
+          6.2527633989696687
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "direccion" : "Cr 63 Cl 48",
+        "localizaci" : "Suramericana",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen10.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.578663710000001,
+        "latitud" : 6.2527634000000001,
+        "x_origen_n" : 4714774.4397,
+        "y_origen_n" : 1183422.3465
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.564753776446864,
+          6.2491452822796649
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "direccion" : "Cr 46 Cl 52",
+        "localizaci" : "Playa x Oriental",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen15.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.564753780000004,
+        "latitud" : 6.2491452799999996,
+        "x_origen_n" : 4716312.0768999998,
+        "y_origen_n" : 1183022.1133000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.582016472906261,
+          6.2471669050596121
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "direccion" : "Cr 63D 42C",
+        "localizaci" : "Av Bolivariana - Deprimido Músico",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen38.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.582016469999999,
+        "latitud" : 6.2471668999999999,
+        "x_origen_n" : 4714400.3055999996,
+        "y_origen_n" : 1182803.3085
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.578513508317741,
+          6.2413703773872724
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "direccion" : "Cr 63A Cl 38",
+        "localizaci" : "Conquistadores",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.578513509999993,
+        "latitud" : 6.2413703800000002,
+        "x_origen_n" : 4714784.8892999999,
+        "y_origen_n" : 1182162.1218000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.560333495984295,
+          6.2420742826000577
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "direccion" : "Cr 37 Cl 47",
+        "localizaci" : "Intersec Bomberos",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen45.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.560333499999999,
+        "latitud" : 6.2420742799999998,
+        "x_origen_n" : 4716797.5206000004,
+        "y_origen_n" : 1182239.9661000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.587445263837751,
+          6.2398985706178083
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "direccion" : "Cl 34 Cr 66B",
+        "localizaci" : "Éxito Unicentro",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen49.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.587445259999996,
+        "latitud" : 6.2398985700000003,
+        "x_origen_n" : 4713795.4687999999,
+        "y_origen_n" : 1181999.3537000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.572494630632519,
+          6.2380801393076695
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "direccion" : "Cl 37 Cr 50",
+        "localizaci" : "Frente AKT",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen42.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.572494629999994,
+        "latitud" : 6.2380801400000001,
+        "x_origen_n" : 4715449.3141000001,
+        "y_origen_n" : 1181798.1629999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.602084760850019,
+          6.2310036583697546
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "direccion" : "Cr 81 Cl 30",
+        "localizaci" : "Av 80",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen22.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.602084759999997,
+        "latitud" : 6.2310036599999998,
+        "x_origen_n" : 4712170.2046999997,
+        "y_origen_n" : 1181015.5462
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.575380688550354,
+          6.230555708792564
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "direccion" : "Cr 49 Cl 30",
+        "localizaci" : "Bancolombia",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen12.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.575380690000003,
+        "latitud" : 6.23055571,
+        "x_origen_n" : 4715125.8026999999,
+        "y_origen_n" : 1180965.8633000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.566701059174946,
+          6.2280919801252672
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "direccion" : "Cr 38 Cl 18",
+        "localizaci" : "Av Las Palmas - Urb. Punta Piedra",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen32.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.56670106,
+        "latitud" : 6.2280919800000003,
+        "x_origen_n" : 4716085.2019999996,
+        "y_origen_n" : 1180693.3300000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.575257306577399,
+          6.2229031817792482
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "direccion" : "Cr 48 Cl 18A",
+        "localizaci" : "Av Industriales - Ciudad del Río",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen33.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.575257309999998,
+        "latitud" : 6.2229031800000003,
+        "x_origen_n" : 4715135.3302999996,
+        "y_origen_n" : 1180119.3887
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.591978198365254,
+          6.2227805288959699
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "direccion" : "Cr 70 Cl14",
+        "localizaci" : "Aeroparque",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen48.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.5919782,
+        "latitud" : 6.2227805299999996,
+        "x_origen_n" : 4713284.4282999998,
+        "y_origen_n" : 1180105.8872
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.577306513364917,
+          6.217378363566926
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "direccion" : "Cr 43 Cl 14",
+        "localizaci" : "High Light",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen20.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.57730651,
+        "latitud" : 6.2173783599999997,
+        "x_origen_n" : 4714905.5245000003,
+        "y_origen_n" : 1179508.273
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.578036074929486,
+          6.216562435108175
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "direccion" : "Cr 50 Cl 25",
+        "localizaci" : "Autopista Sur Sentido N-S - Leonisa 14 y 10",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen37.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.578036080000004,
+        "latitud" : 6.2165624399999997,
+        "x_origen_n" : 4714824.3288000003,
+        "y_origen_n" : 1179418.0220000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.579189425394759,
+          6.2136400123300417
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "direccion" : "Cl 10 Cr 50",
+        "localizaci" : "Puente de La 10 sobre Av. Regional",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen47.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.57918943,
+        "latitud" : 6.2136400099999998,
+        "x_origen_n" : 4714695.0870000003,
+        "y_origen_n" : 1179094.7653999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.562634830662759,
+          6.2152612117082402
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "direccion" : "Cl 16 Cr 30",
+        "localizaci" : "Restaurante Asia",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen3.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.562634829999993,
+        "latitud" : 6.2152612100000004,
+        "x_origen_n" : 4716528.398,
+        "y_origen_n" : 1179274.0713
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.578964120807541,
+          6.2099789622017054
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "direccion" : "Cr 50 Cl 4",
+        "localizaci" : "Coltabaco",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen13.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.578964119999995,
+        "latitud" : 6.2099789599999999,
+        "x_origen_n" : 4714718.0526999999,
+        "y_origen_n" : 1178689.8023999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.578315024799366,
+          6.2089710335506858
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "direccion" : "Cr 49 Cl 7",
+        "localizaci" : "Inem",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen21.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.578315029999999,
+        "latitud" : 6.2089710299999998,
+        "x_origen_n" : 4714789.3596000001,
+        "y_origen_n" : 1178578.3097999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.560540026065098,
+          6.2045366672372033
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "direccion" : "Tv 7A Dg 29D",
+        "localizaci" : "Trv Inferior con Tesoro",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen30.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.560540029999999,
+        "latitud" : 6.2045366700000004,
+        "x_origen_n" : 4716754.5330999997,
+        "y_origen_n" : 1178087.7912000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.58805412634706,
+          6.2020941489510566
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "direccion" : "Cr 52 Cl 8S",
+        "localizaci" : "Boca del Caribe",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen25.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.588054130000003,
+        "latitud" : 6.2020941499999998,
+        "x_origen_n" : 4713707.5937999999,
+        "y_origen_n" : 1177817.6695000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.584492151787416,
+          6.2007875577148575
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "direccion" : "Cr 50FF Cl 8",
+        "localizaci" : "Sur Vivero",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen23.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.584492150000003,
+        "latitud" : 6.2007875600000002,
+        "x_origen_n" : 4714101.1804,
+        "y_origen_n" : 1177673.1266000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.580366914945458,
+          6.1972570784873104
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "direccion" : "Cr 49 Cl 7 Sur",
+        "localizaci" : "Aguacatala",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen14.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.580366920000003,
+        "latitud" : 6.19725708,
+        "x_origen_n" : 4714555.9211999997,
+        "y_origen_n" : 1177282.5919999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.575459999911459,
+          6.2587610005157615
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "direccion" : "Cr 65 Cl 55",
+        "localizaci" : "Carlos E. Restrepo",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen50.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.575460000000007,
+        "latitud" : 6.2587609999999998,
+        "x_origen_n" : 4715132.2882000003,
+        "y_origen_n" : 1184085.7553000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.576530000255232,
+          6.2267900006242716
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "direccion" : "Cr 50 Cl 25",
+        "localizaci" : "Postobón",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen51.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.576530000000005,
+        "latitud" : 6.2267900000000003,
+        "x_origen_n" : 4714996.5543999998,
+        "y_origen_n" : 1180549.327
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.580197000690177,
+          6.2010160009302693
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "direccion" : "Cr 50 Cl 7 Sur",
+        "localizaci" : "Colcafé",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen52.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.580196999999998,
+        "latitud" : 6.2010160000000001,
+        "x_origen_n" : 4714576.7531000003,
+        "y_origen_n" : 1177698.3798
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.580425000081874,
+          6.1949690013018017
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "direccion" : "Cl 12 Sur Cr 48B",
+        "localizaci" : "Deprimido Glorieta Aguacatala",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen53.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.580425000000005,
+        "latitud" : 6.1949690000000004,
+        "x_origen_n" : 4714548.2604,
+        "y_origen_n" : 1177029.4994999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.57760700000749,
+          6.2470469995307605
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "direccion" : "Cr 59 Cl 44",
+        "localizaci" : "Barrio Triste",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen55.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.577607,
+        "latitud" : 6.2470470000000002,
+        "x_origen_n" : 4714888.3011999996,
+        "y_origen_n" : 1182790.0315
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.577557000699443,
+          6.2527210003497506
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "direccion" : "Cr 62 Cl 49",
+        "localizaci" : "Bomberos Liberta",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen56.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.577556999999999,
+        "latitud" : 6.2527210000000002,
+        "x_origen_n" : 4714896.9111000001,
+        "y_origen_n" : 1183417.6536000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.586709999507335,
+          6.2053679998729425
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "direccion" : "Cr 52 Cl 3 Sur",
+        "localizaci" : "Cristo Rey",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen57.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.586709999999997,
+        "latitud" : 6.205368,
+        "x_origen_n" : 4713858.1494000005,
+        "y_origen_n" : 1178179.7959
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.567143000312413,
+          6.2963600009704415
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "direccion" : "Cr 64C Cl 102E",
+        "localizaci" : "Belalcázar",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen58.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.567143000000002,
+        "latitud" : 6.29636,
+        "x_origen_n" : 4716073.2138,
+        "y_origen_n" : 1188244.7087999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.569572999799107,
+          6.2913270006253601
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "direccion" : "Cr 65 Cl 97",
+        "localizaci" : "EPS Sura Castilla",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen59.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.569573000000005,
+        "latitud" : 6.2913269999999999,
+        "x_origen_n" : 4715801.5392000005,
+        "y_origen_n" : 1187687.9918
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.583475000873136,
+          6.2734329991646884
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "direccion" : "Cr 72B Cl 73",
+        "localizaci" : "Pilarica",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen62.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.583475000000007,
+        "latitud" : 6.2734329999999998,
+        "x_origen_n" : 4714253.1634999998,
+        "y_origen_n" : 1185708.7039000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.57509500031081,
+          6.2627239994977986
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "direccion" : "Cr 64C Cl 58",
+        "localizaci" : "Universidad Nacional",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen63.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.575095000000005,
+        "latitud" : 6.2627240000000004,
+        "x_origen_n" : 4715174.8369000005,
+        "y_origen_n" : 1184524.1165
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.566826000109984,
+          6.2330479991773933
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "direccion" : "Cr 42 Cl 31A",
+        "localizaci" : "Angus Brangus",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen65.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.566826000000006,
+        "latitud" : 6.2330480000000001,
+        "x_origen_n" : 4716074.0396999996,
+        "y_origen_n" : 1181241.5336
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.553879999500438,
+          6.2170589998199839
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "direccion" : "Cr 22 Cl 16",
+        "localizaci" : "Chuscalito",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen66.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.553880000000007,
+        "latitud" : 6.2170589999999999,
+        "x_origen_n" : 4717498.4256999996,
+        "y_origen_n" : 1179472.9435000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.569991000066196,
+          6.2143720000475442
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "direccion" : "Cr 43A Cl 14",
+        "localizaci" : "Castropol",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen67.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.569991000000002,
+        "latitud" : 6.214372,
+        "x_origen_n" : 4715713.6648000004,
+        "y_origen_n" : 1179175.7145
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.590205999414735,
+          6.2394050008604935
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "direccion" : "Tv 39B Cl 70",
+        "localizaci" : "Glorieta Bulerías",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen69.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.590205999999995,
+        "latitud" : 6.2394049999999996,
+        "x_origen_n" : 4713489.6232000003,
+        "y_origen_n" : 1181944.7719000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.562365000378733,
+          6.2548200015133579
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "direccion" : "Cr 47 Cl 58",
+        "localizaci" : "Villa Nueva",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen70.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.562365,
+        "latitud" : 6.2548199999999996,
+        "x_origen_n" : 4716579.5322000002,
+        "y_origen_n" : 1183649.8156999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.582978999736739,
+          6.1888159998150964
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "direccion" : "Cr 49 Cl 17 Sur",
+        "localizaci" : "Tugó",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen71.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.582978999999995,
+        "latitud" : 6.1888160000000001,
+        "x_origen_n" : 4714262.2320999997,
+        "y_origen_n" : 1176348.9021999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.580325000374174,
+          6.1906929997865019
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "direccion" : "Cr 48 Cl 16 Sur",
+        "localizaci" : "Ford Las Vegas",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen72.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.580325000000002,
+        "latitud" : 6.1906929999999996,
+        "x_origen_n" : 4714557.0306000002,
+        "y_origen_n" : 1176556.5148
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.572740000117605,
+          6.1943800003877421
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "direccion" : "Cr 38 Cl 9 Sur",
+        "localizaci" : "Cent C. Santa Fe",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen73.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.572739999999996,
+        "latitud" : 6.1943799999999998,
+        "x_origen_n" : 4715398.6375000002,
+        "y_origen_n" : 1176964.3291
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.575129999976426,
+          6.2254779990770368
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "direccion" : "Cr 48 Cl 20",
+        "localizaci" : "Clinica Clofan",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen74.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.575130000000001,
+        "latitud" : 6.2254779999999998,
+        "x_origen_n" : 4715150.8104999997,
+        "y_origen_n" : 1180404.1984999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.575090999878981,
+          6.2535839991721529
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "direccion" : "Cr 57 Cl 50",
+        "localizaci" : "Sena",
+        "link_foto" : "https://www.medellin.gov.co/simm/camaras-cctv/imagen76.jpg",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.575091,
+        "latitud" : 6.253584,
+        "x_origen_n" : 4715170.3233000003,
+        "y_origen_n" : 1183513.1072
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.558012656362521,
+          6.3054598231303007
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "direccion" : "Carrera 63 No. 111 EE-04",
+        "localizaci" : "Avenida Paralela\r\nAvenida Paralela",
+        "link_foto" : " ",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.557976510000003,
+        "latitud" : 6.3052141099999996,
+        "x_origen_n" : 4717088.6284999996,
+        "y_origen_n" : 1189224.0996000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.605027655815476,
+          6.2763924730348801
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "direccion" : "Km 4,1 en vía a Occidente",
+        "localizaci" : "Blanquizal",
+        "link_foto" : " ",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.605035540000003,
+        "latitud" : 6.2764043100000002,
+        "x_origen_n" : 4711869.3382000001,
+        "y_origen_n" : 1186037.5046000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.589873998510228,
+          6.1977624721278382
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "direccion" : "Cr 52 x Cll 12 sur\r\n",
+        "localizaci" : "Guayabal\r\n",
+        "link_foto" : " ",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.589876149999995,
+        "latitud" : 6.1977908199999998,
+        "x_origen_n" : 4713503.8027999997,
+        "y_origen_n" : 1177341.6710999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.547475340331104,
+          6.2380855280167884
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "direccion" : "Carrera 21 x calle 49\r\n",
+        "localizaci" : "La Central\r\n",
+        "link_foto" : " ",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.547459570000001,
+        "latitud" : 6.2380672300000004,
+        "x_origen_n" : 4718218.5718,
+        "y_origen_n" : 1181796.7605999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.575929999901206,
+          6.2340221210293469
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "direccion" : "Cr 50 x Cll 30",
+        "localizaci" : "Puente Guayaquil",
+        "link_foto" : " ",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.575928570000002,
+        "latitud" : 6.2340562100000003,
+        "x_origen_n" : 4715066.8733000001,
+        "y_origen_n" : 1181353.0674999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.5673840002476,
+          6.286770471660617
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "direccion" : "Cr 63 Cl 94",
+        "localizaci" : "Puente Madre Laura\r\n",
+        "link_foto" : " ",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.567384000000004,
+        "latitud" : 6.2867916399999997,
+        "x_origen_n" : 4716041.3295,
+        "y_origen_n" : 1187186.3171999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.579721315335192,
+          6.2473394728200873
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "direccion" : "Carrera 62 x Calle 43\r\n",
+        "localizaci" : "Puente San Juan\r\n",
+        "link_foto" : " ",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.579757169999993,
+        "latitud" : 6.2473574100000002,
+        "x_origen_n" : 4714654.4379000003,
+        "y_origen_n" : 1182824.3735
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -75.575191658330397,
+          6.2340758238516516
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "direccion" : "Carrera 54 x Calle 32A\r\n",
+        "localizaci" : "Regional Tierragro",
+        "link_foto" : " ",
+        "link_detal" : "https://www.medellin.gov.co/simm/",
+        "longitud" : -75.575211980000006,
+        "latitud" : 6.2340815100000002,
+        "x_origen_n" : 4715148.6271000002,
+        "y_origen_n" : 1181355.8643
+      }
+    }
+  ]
+}
