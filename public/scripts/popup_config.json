@@ -1,0 +1,42 @@
+{
+  "nombres_capas": {
+    "wgs84_estaciones_de_clasificaci": "Estaciones de Clasificación",
+    "wgs84_red_hidrica_mr": "Red Hídrica",
+    "wgs84_zonas_geoeconomicas_vigen": "Zonas Geo-Económicas"
+  },
+  "popups": {
+    "wgs84_estaciones_de_clasificaci": {
+      "titulo": "Estación de Clasificación",
+      "campos": [
+        { "nombre": "asociacion", "etiqueta": "Asociación" },
+        { "nombre": "barrio_ver", "etiqueta": "Barrio/Vereda" },
+        { "nombre": "cod_comuna", "etiqueta": "Código de Comuna" },
+        { "nombre": "comuna", "etiqueta": "Comuna" },
+        { "nombre": "id", "etiqueta": "Identificacin" },
+        { "nombre": "periodo", "etiqueta": "Periodo" }
+      ]
+    },
+    "wgs84_red_hidrica_mr": {
+      "titulo": "Red Hídrica",
+      "campos": [
+        { "nombre": "Shape_Leng", "etiqueta": "Longitud de la Forma" },
+        { "nombre": "fid", "etiqueta": "FID" },
+        { "nombre": "jerarquia", "etiqueta": "Jerarquía" },
+        { "nombre": "nombre", "etiqueta": "Nombre" }
+      ]
+    },
+    "wgs84_zonas_geoeconomicas_vigen": {
+      "titulo": "Zona Geo-Económica",
+      "campos": [
+        { "nombre": "Shape_Area", "etiqueta": "Área de la Forma" },
+        { "nombre": "Shape_Leng", "etiqueta": "Longitud de la Forma" },
+        { "nombre": "cod_valor", "etiqueta": "Código de Valor" },
+        { "nombre": "comuna", "etiqueta": "Comuna" },
+        { "nombre": "fecha_sinc", "etiqueta": "Fecha de Sincronización" },
+        { "nombre": "fid", "etiqueta": "FID" },
+        { "nombre": "valor_m2", "etiqueta": "Valor por m²" },
+        { "nombre": "vigencia", "etiqueta": "Vigencia" }
+      ]
+    }
+  }
+}
